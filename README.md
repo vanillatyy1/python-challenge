@@ -16,7 +16,7 @@
 
 (iii) **Analysis folder**: To store text files with analysis results.
 
-(5) Analyze the data so it wil dispaly the same output as the instructions given
+(5) Analyze the data. The Python script should calculate the following with the expected results to resumble the below:
 
 ````
 Financial Analysis
