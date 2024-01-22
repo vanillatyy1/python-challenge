@@ -57,7 +57,7 @@ Winner: Diana DeGette
 
 **4) Loops**
 - ‘for … in’
-- 
+  
 **6) GitHub**
 -	Use the command line to access files and folders and to update GitHub repositories
 - Add
@@ -66,12 +66,15 @@ Winner: Diana DeGette
 
 # Journey for PyBank challenges
 
-# Journey for PyPoll challenges
 (1) Reviewed notes in Python class 1 - 3 before start
 
-(2) Total of vote: use vote counter +=
+(2) Referenced https://www.pythontutorial.net/python-basics/python-write-text-file/ to write text files in Python, as we have learnt about outputting csv (i.e. Python 2nd class - 10-Ins_WriteCSV, 12-Stu_CensusZip), but not sure how exactly it works for text file.
 
-(3) Individual vote count: Create a list for the Candidate names, if the Candidate name is not on the list, add his/her name to the list, along with a vote for his/her name. But if he/she is already on the list, then simply add a vote count under his/her name
+# Journey for PyPoll challenges
+
+(1) Total of vote: use vote counter +=
+
+(2) Individual vote count: Create a list for the Candidate names, if the Candidate name is not on the list, add his/her name to the list, along with a vote for his/her name. But if he/she is already on the list, then simply add a vote count under his/her name
 
 *In previous Module 2, If Not Equal (<>) in VBA is utilized to check if we are still within the same ticker, and it played an important role during the For Loop value searches.*
 
