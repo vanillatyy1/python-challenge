@@ -27,6 +27,7 @@ Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 '''
+
 '''
 Election Results
 -------------------------
@@ -39,6 +40,7 @@ Raymon Anthony Doane: 3.139% (11606)
 Winner: Diana DeGette
 -------------------------
 '''
+
 (6) **Push these changes** to your GitHub or GitLab repository.
 
 # Main concept tested:
