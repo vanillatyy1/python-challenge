@@ -18,7 +18,7 @@
 
 (5) Analyze the data so it wil dispaly the same output as the instructions given
 
-'''
+````
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -26,9 +26,9 @@ Total: $22564198
 Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
-'''
+````
 
-'''
+````
 Election Results
 -------------------------
 Total Votes: 369711
@@ -39,7 +39,7 @@ Raymon Anthony Doane: 3.139% (11606)
 -------------------------
 Winner: Diana DeGette
 -------------------------
-'''
+````
 
 (6) **Push these changes** to your GitHub or GitLab repository.
 
