@@ -66,9 +66,9 @@ Winner: Diana DeGette
 
 # Journey for PyBank challenges
 
-(1) Reviewed notes in Python class 1 - 3 before start. I copied and pasted all the codes onto 3 word documents for easy review.
+(1) Reviewed "Solved" files in Python class 1 - 3 before start
 
-(2) Referenced https://www.pythontutorial.net/python-basics/python-write-text-file/ to write text files in Python, as we have learnt about outputting csv (i.e. Python 2nd class - 10-Ins_WriteCSV, 12-Stu_CensusZip), but not sure how exactly it works for text file.
+(2) Referenced https://www.pythontutorial.net/python-basics/python-write-text-file/ to write text files in Python, as we have learnt about outputting csv (i.e. Python 2nd class - 10-Ins_WriteCSV, 12-Stu_CensusZip), but not sure how exactly it works for text file
 
 # Journey for PyPoll challenges
 
